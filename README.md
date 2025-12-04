@@ -1,4 +1,4 @@
-# Kokoro TTS WebUI
+# How to build a FREE Text-to-Speech AI App on Google Colab using Pinggy
 
 A modern, high-quality **Text-to-Speech (TTS)** interface powered by **Kokoro ONNX**.
 This project provides an elegant Gradio web interface for generating natural-sounding speech in multiple languages — and can be self-hosted online using **Pinggy**.
