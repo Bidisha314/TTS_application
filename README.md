@@ -85,9 +85,8 @@ https://blue-cobra-1234.a.pinggy.link
 Share this link with anyone - your TTS WebUI is now globally accessible!
 ## Screenshot
 
-```
+
 ![app](https://github.com/Bidisha314/TTS_application/blob/main/app.jpg)
-```
 
 
 ## Project Structure
