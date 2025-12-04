@@ -110,15 +110,6 @@ Share this link with anyone - your TTS WebUI is now globally accessible!
 Simple and fast.
 
 
-## Screenshot (Optional)
-
-Add your own screenshot here:
-
-```markdown
-![App Screenshot](assets/app.jpg)
-```
-
-
 ## 🛠️ Built With
 
 * **Kokoro ONNX**
