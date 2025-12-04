@@ -115,7 +115,7 @@ Simple and fast.
 Add your own screenshot here:
 
 ```markdown
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/app.jpg)
 ```
 
 
