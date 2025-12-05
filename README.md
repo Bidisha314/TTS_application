@@ -45,7 +45,7 @@ pip install gradio kokoro-onnx soundfile torch numpy
 
 Pinggy allows you to expose your local Kokoro TTS WebUI publicly on the Internet.
 
-### **Step 1 — Run the WebUI**
+### **Step 1: Run the WebUI**
 
 Start the app normally:
 
@@ -61,7 +61,7 @@ The app runs at:
 http://localhost:8000
 ```
 
-### **Step 2 — Open a Pinggy tunnel**
+### **Step 2: Set up Pinggy tunnel**
 
 Install Pinggy:
 ```
