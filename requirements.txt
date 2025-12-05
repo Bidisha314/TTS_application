@@ -1,0 +1,6 @@
+kokoro-onnx
+gradio
+soundfile
+torch
+numpy
+urllib3
