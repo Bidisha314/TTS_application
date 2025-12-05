@@ -76,7 +76,8 @@ tunnel1 = pinggy.start_tunnel(
 )
 print(f"Tunnel1 started - URLs: {tunnel1.urls}")
 ```
-Note: You can just change the port address according to what you need. 
+Note: You can just change the port address according to what you need.
+
 Pinggy will generate a public HTTPS URL like:
 
 ```
