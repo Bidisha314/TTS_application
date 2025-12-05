@@ -63,7 +63,7 @@ http://localhost:8000
 
 ### **Step 2: Set up Pinggy tunnel**
 
-Install Pinggy:
+Install [Pinggy](https://pinggy.io/):
 ```
 !pip install pinggy
 ```
