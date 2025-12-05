@@ -50,7 +50,9 @@ Pinggy allows you to expose your local Kokoro TTS WebUI publicly on the Internet
 Start the app normally:
 
 ```bash
-python app.py
+if __name__ == "__main__":
+    app = build_ui()
+    app.launch(server_name="0.0.0.0", server_port=5000, share=False)
 ```
 
 The app runs at:
